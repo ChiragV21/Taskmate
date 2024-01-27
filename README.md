@@ -1,5 +1,12 @@
-In this project, I've developed an application dedicated to managing user tasks through a comprehensive to-do list system. The implementation involves the incorporation of views, models, forms, templates, and the use of a base template. Additionally, static files have been employed for enhanced user experience.
+- Developed a task management application using views, models, forms, templates, and the concept of base templates.
+- Implemented static files for enhanced user interface.
+- Designed visually appealing and responsive forms for optimal user experience.
+- Incorporated user authentication and login functionality to track individual users.
+- Ensured full responsiveness for each page, including the use of paginator.
+- Applied '@login required' on specific pages to restrict access to the Task Manager Page before login.
 
-The application features aesthetically pleasing forms, designed to be responsive and visually appealing. Furthermore, a robust user authentication and login system have been implemented to meticulously track and identify each user.
+![image](https://github.com/ChiragV21/Taskmate/assets/55586574/5b0059cf-29f4-43e7-b199-516e53ea0c60)
 
-Every page within the application has been optimized for full responsiveness, ensuring a seamless and user-friendly experience across various devices. As part of the development process, grammatical accuracy has been meticulously checked, and the content has been refined for clarity and coherence.
+![image](https://github.com/ChiragV21/Taskmate/assets/55586574/c0898d4c-f7e8-40ed-9818-b5b6a67638ef)
+
+
