@@ -1,5 +1,4 @@
 - Developed a task management application using views, models, forms, templates, and the concept of base templates.
-- Implemented static files for enhanced user interface.
 - Designed visually appealing and responsive forms for optimal user experience.
 - Incorporated user authentication and login functionality to track individual users.
 - Ensured full responsiveness for each page, including the use of paginator.
