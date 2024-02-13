@@ -1,3 +1,4 @@
+- User App contains the code of user authenication.
 - Developed a task management application using views, models, forms, templates, and the concept of base templates.
 - Designed visually appealing and responsive forms for optimal user experience.
 - Incorporated user authentication and login functionality to track individual users.
